@@ -8,7 +8,9 @@ The ui folder is based on the exact structure provided by @AngularClass in the a
 
 ## Steps
 1) Install mvn , npm , java 1.8
+
 2) Install the dependencies given in the AngularClass project https://github.com/AngularClass/angular2-webpack-starter
+
 3) Build the app
 ```
 mvn clean install
